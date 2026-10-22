@@ -1,1 +1,4 @@
 This is format.txt
+
+A. Discard an unstaged modification
+
