@@ -13,3 +13,8 @@ bcosnsdjpwemddpmcc p
 jojoojoo
 
 jnnooodkoksaP
+
+button
+    class="btn btn-primary"
+    type="button"
+    disabled
