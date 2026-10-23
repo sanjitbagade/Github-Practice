@@ -9,13 +9,3 @@ bcosnsdjpwemddpmcc p
 <!-- ========== Start Section ========== -->
 
 <!-- ========== End Section ========== -->
-
-
-<figure class="figure">
-    <img src="" class="figure-img img-fluid rounded" alt="" />
-    <figcaption
-        class="figure-caption text-start"
-    >
-        Some Word
-    </figcaption>
-</figure>
