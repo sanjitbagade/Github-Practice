@@ -18,3 +18,9 @@ button
     class="btn btn-primary"
     type="button"
     disabled
+
+<figure class="figure">
+    <img src="" class="figure-img img-fluid rounded" alt="" />
+    <figcaption
+        class="figure-caption text-start"
+    
