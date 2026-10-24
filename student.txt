@@ -1,4 +1,0 @@
-Student: Rahul
-Marks: 75
-Student : Mohit 
-Marks : 80
