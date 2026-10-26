@@ -1,1 +1,4 @@
 Laptop
+Price: 50000
+Category: Electronics
+Stock: 20
