@@ -1,1 +1,1 @@
-soft
+resolve conflicts
